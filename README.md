@@ -4,7 +4,7 @@
 
 <center>
 
- Florescer Educaçã (Front-end)
+ Florescer Educação (Front-end)
   
    
 </center>
@@ -14,20 +14,7 @@
 </h4>
 
 <p align="center">
-
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/thalesmoraisdealmeida21/E-Learned-Front-end?style=for-the-badge">
-
-
-  <a href="https://github.com/tgmarinho/README-ecoleta/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/thalesmoraisdealmeida21/E-Learned-Front-end?style=for-the-badge">
-  </a>
    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen?style=for-the-badge">
-
-
-
-
-
 </p>
 
 <h4 align="center">
@@ -51,7 +38,6 @@ Tabela de conteúdos
    * [Tecnologias](#-tecnologias)
    * [Como excutar ?](#Como-executar-o-projeto)
    * [Como contribuir no projeto](#-como-contribuir-no-projeto)
-   * [Autor](#-autor)
    * [Licença](#user-content--licença)
 <!--te-->
 
@@ -73,7 +59,7 @@ Este repositório contempla a aplicação Web desenvolvida em React,para que ela
 - [x] Criação e autenticação de usuários
   - [x] Atualização de perfil do usuário
   - [x] Login do usuário (JWT)
-  - [ ] Recuperação de senha
+  - [x] Recuperação de senha
 
 
 - [x] Criação e edição de palestras / Cursos
@@ -100,8 +86,8 @@ Este repositório contempla a aplicação Web desenvolvida em React,para que ela
 
 Este projeto é divido em duas partes:
 1. Frontend (Este repositório)
-<a href="https://github.com/Thalesmoraisdealmeida21/E-Learned-Back-end">
-  2. Frontend
+<a href="https://github.com/FlorescerEducacao/FlorescerBackEnd">
+2. Backend
 </a>
 
 
@@ -186,9 +172,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 > Veja o arquivo  [package.json](https://github.com/Thalesmoraisdealmeida21/E-Learned-Front-end/blob/master/package.json)
 
 
-
-
-
 ## 💪 Como contribuir no projeto
 
 1. Faça um **fork** do projeto.
@@ -196,15 +179,10 @@ As seguintes ferramentas foram usadas na construção do projeto:
 3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
 4. Envie as suas alterações: `git push origin my-feature`
 
-
-
-
 ---
 
 ## 📝 Licença
 
 Este projeto esta sobe a licença [MIT](./LICENSE).
-
-Feito com ❤️ por Thales Morais 👋🏽 [Entre em contato!](https://www.linkedin.com/in/thales-morais/)
 
 
