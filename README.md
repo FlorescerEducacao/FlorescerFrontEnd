@@ -4,7 +4,7 @@
 
 <center>
 
-  ![Logo do R](src/assets/logoConteined.png)
+ Florescer Educaçã (Front-end)
   
    
 </center>
