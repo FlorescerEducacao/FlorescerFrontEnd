@@ -25,10 +25,6 @@
    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen?style=for-the-badge">
 
 
-  <a href="#">
-    <img alt="Feito pela Thales Morais" src="https://img.shields.io/badge/feito%20por-Thales%20Morais-%237519C1?style=for-the-badge">
-  </a>
-
 
 
 
@@ -201,15 +197,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 4. Envie as suas alterações: `git push origin my-feature`
 
 
----
-
-## 🦸 Autor
-
-
- <img style="border-radius: 50%;" src="https://avatars2.githubusercontent.com/u/12722629?s=400&u=c3d3e1b1fccb1da4b9b7c906393a24d507adae36&v=4" width="100px;" alt=""/>
- <br />
- <sub><b>Thales Morais</b></sub>
- <br />
 
 
 ---
