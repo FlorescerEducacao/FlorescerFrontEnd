@@ -41,7 +41,7 @@ const SignIn: React.FC = () => {
         <Card>
           <img src={logo} alt="Flroescer" />
 
-          <h2>Login</h2>
+          <h2>Login na Florescer</h2>
 
           <Form onSubmit={handleAuthenticate}>
             <FormStyle>
