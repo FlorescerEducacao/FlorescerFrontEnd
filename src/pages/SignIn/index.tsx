@@ -53,7 +53,7 @@ const SignIn: React.FC = () => {
                 placeholder="Senha"
               />
               <Link to="forgot-password">Esqueceu sua senha ?</Link>
-              <Button type="submit">Login</Button>
+              <Button type="submit">Login Florescer</Button>
             </FormStyle>
           </Form>
 
